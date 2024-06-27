@@ -1,3 +1,4 @@
+const { type } = require('os')
 const {writeDb} = require('./dbFunctions')
 
 const obj = {
